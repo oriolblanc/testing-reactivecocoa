@@ -1,4 +1,4 @@
-testing-reactivecocoa
+Testing ReactiveCocoa
 =====================
 
-Testing Reactive cocoa
+Following this tutorial: http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1
